@@ -14,8 +14,35 @@ a:hover {
     color: #c1b696;
 }
 
-/*============================== Generic Classes ==============================*/
+main {
+    padding: 1rem;
+}
 
+/*============================== Generic Classes ==============================*/
+.fit-image {
+    background-size: cover;
+    background-position: center;
+}
+
+.btn {
+    background-color: #25282e;
+
+    color: #fff;
+}
+
+.art-card {
+    background-color: #fff;
+
+    width: 400px;
+    max-width: 50%;
+    min-width: 225px;
+
+    position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+
+    padding: 1rem;
+}
 
 /*============================== Page - Top to Bottom ==============================*/
 /* HEADER */
@@ -44,6 +71,25 @@ a:hover {
         list-style: none;
     }
 
-        .header__link {
+        .header__item {
             max-width: fit-content;
         }
+        
+        .header__item__link {
+            color: #444;
+
+            transition: all 0.25s;
+        }
+
+            .header__item__link:hover {
+                color: #c1b696;
+            }
+
+/* MAIN ART */
+.main-art {
+    background-image: url("/images/g_1.jpg");
+    
+    height: 500px;
+
+    position: relative;
+}
