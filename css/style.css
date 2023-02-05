@@ -1,3 +1,49 @@
-body {
-    background-color: red;
+/*============================== Generic Elements ==============================*/
+* {
+    color: #25282e;
 }
+
+a {
+    color: #444;
+    text-decoration: none;
+
+    transition: all 0.5s;
+}
+
+a:hover {
+    color: #c1b696;
+}
+
+/*============================== Generic Classes ==============================*/
+
+
+/*============================== Page - Top to Bottom ==============================*/
+/* HEADER */
+.header__intro {
+    border-bottom: 1px solid #ccc;
+    padding: 0.5rem;
+}
+
+    .header__mark {
+        display: flex;
+    }
+
+    .header__mark__logo {
+        width: 40px;
+
+        margin-right: 0.5rem;
+    }
+
+.header__nav {
+    padding: 0.5rem;
+}
+
+    .header__links {
+        padding-left: 0;
+        
+        list-style: none;
+    }
+
+        .header__link {
+            max-width: fit-content;
+        }
