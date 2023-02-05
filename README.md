@@ -6,7 +6,7 @@ Aplicar os conceitos básicos do **Bootstrap** como o **grid** e os **containers
 | -------------  | --- |
 | :sparkles: Nome        | **Art**
 | :label: Tecnologias | html, css, bootstrap (tecnologias utilizadas)
-| :rocket: URL         | https://github.com/Volaxy/Art_com_Bootstrap
+| :rocket: URL         | https://volaxy.github.io/Art_com_Bootstrap/
 | :fire: Desafio     | N/A
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
