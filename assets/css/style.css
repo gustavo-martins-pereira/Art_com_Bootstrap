@@ -89,7 +89,7 @@ main {
 
 /* MAIN ART */
 .main-art {
-    background-image: url("/images/g_1.jpg");
+    background-image: url("/assets/images/g_1.jpg");
     
     height: 500px;
 
@@ -112,19 +112,19 @@ main {
     }
 
         .arts__art__image--1 {
-            background-image: url("/images/g_2.jpg");
+            background-image: url("/assets/images/g_2.jpg");
         }
         .arts__art__image--2 {
-            background-image: url("/images/g_3.jpg");
+            background-image: url("/assets/images/g_3.jpg");
         }
         .arts__art__image--3 {
-            background-image: url("/images/g_4.jpg");
+            background-image: url("/assets/images/g_4.jpg");
         }
         .arts__art__image--4 {
-            background-image: url("/images/g_5.jpg");
+            background-image: url("/assets/images/g_5.jpg");
         }
         .arts__art__image--5 {
-            background-image: url("/images/g_6.jpg");
+            background-image: url("/assets/images/g_6.jpg");
         }
 
 /* FOOTER */

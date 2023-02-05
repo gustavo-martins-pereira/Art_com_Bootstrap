@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Art
 
-Rápida descrição do objetivo de fazer esse projeto
+Aplicar os conceitos básicos do **Bootstrap** como o **grid** e os **containers**.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Art**
+| :label: Tecnologias | html, css, bootstrap (tecnologias utilizadas)
+| :rocket: URL         | https://github.com/Volaxy/Art_com_Bootstrap
+| :fire: Desafio     | N/A
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Imagem geral do projeto](/images/Project.png)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto foi feito usando as classes de grid do **Bootstrap** como o `col`, `row` e outras classes, o maior desafio foi entender o conceito básico, por ser um pouco confuso a primeira vista, mas pretendo fazer projetos mais complexos do que este para ficar fera no framework.
