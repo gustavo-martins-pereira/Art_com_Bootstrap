@@ -93,3 +93,34 @@ main {
 
     position: relative;
 }
+
+/* ARTS */
+.arts__title {
+    margin: 2rem;
+}
+
+.arts__art {
+    margin-bottom: 3rem;
+}
+
+    .arts__art__image {
+        height: 300px;
+
+        margin-bottom: 1rem;
+    }
+
+        .arts__art__image--1 {
+            background-image: url("/images/g_2.jpg");
+        }
+        .arts__art__image--2 {
+            background-image: url("/images/g_3.jpg");
+        }
+        .arts__art__image--3 {
+            background-image: url("/images/g_4.jpg");
+        }
+        .arts__art__image--4 {
+            background-image: url("/images/g_5.jpg");
+        }
+        .arts__art__image--5 {
+            background-image: url("/images/g_6.jpg");
+        }
