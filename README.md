@@ -10,7 +10,7 @@ Aplicar os conceitos básicos do **Bootstrap** como o **grid** e os **containers
 | :fire: Desafio     | N/A
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Imagem geral do projeto](/images/Project.png)
+![Imagem geral do projeto](/images/Project.png#vitrinedev)
 
 ## Detalhes do projeto
 
